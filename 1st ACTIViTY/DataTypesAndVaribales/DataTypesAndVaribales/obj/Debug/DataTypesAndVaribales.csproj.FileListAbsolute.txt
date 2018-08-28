@@ -1,0 +1,16 @@
+C:\Users\PC002\AppData\Local\Temporary Projects\DataTypesAndVaribales\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PC002\AppData\Local\Temporary Projects\DataTypesAndVaribales\obj\Debug\DataTypesAndVaribales.Properties.Resources.resources
+C:\Users\PC002\AppData\Local\Temporary Projects\DataTypesAndVaribales\obj\Debug\DataTypesAndVaribales.csproj.GenerateResource.Cache
+C:\Users\PC002\AppData\Local\Temporary Projects\DataTypesAndVaribales\bin\Debug\DataTypesAndVaribales.exe
+C:\Users\PC002\AppData\Local\Temporary Projects\DataTypesAndVaribales\bin\Debug\DataTypesAndVaribales.pdb
+C:\Users\PC002\AppData\Local\Temporary Projects\DataTypesAndVaribales\obj\Debug\DataTypesAndVaribales.exe
+C:\Users\PC002\AppData\Local\Temporary Projects\DataTypesAndVaribales\obj\Debug\DataTypesAndVaribales.pdb
+C:\Users\PC002\AppData\Local\Temporary Projects\DataTypesAndVaribales\obj\Debug\DataTypesAndVaribales.btn1.resources
+D:\Aceron,Martin John Copro3\1st ACTIViTY\DataTypesAndVaribales\DataTypesAndVaribales\obj\Debug\DataTypesAndVaribales.exe
+D:\Aceron,Martin John Copro3\1st ACTIViTY\DataTypesAndVaribales\DataTypesAndVaribales\obj\Debug\DataTypesAndVaribales.pdb
+D:\Aceron,Martin John Copro3\1st ACTIViTY\DataTypesAndVaribales\DataTypesAndVaribales\bin\Debug\DataTypesAndVaribales.exe
+D:\Aceron,Martin John Copro3\1st ACTIViTY\DataTypesAndVaribales\DataTypesAndVaribales\bin\Debug\DataTypesAndVaribales.pdb
+D:\Aceron,Martin John Copro3\1st ACTIViTY\DataTypesAndVaribales\DataTypesAndVaribales\obj\Debug\ResolveAssemblyReference.cache
+D:\Aceron,Martin John Copro3\1st ACTIViTY\DataTypesAndVaribales\DataTypesAndVaribales\obj\Debug\DataTypesAndVaribales.btn1.resources
+D:\Aceron,Martin John Copro3\1st ACTIViTY\DataTypesAndVaribales\DataTypesAndVaribales\obj\Debug\DataTypesAndVaribales.Properties.Resources.resources
+D:\Aceron,Martin John Copro3\1st ACTIViTY\DataTypesAndVaribales\DataTypesAndVaribales\obj\Debug\DataTypesAndVaribales.csproj.GenerateResource.Cache

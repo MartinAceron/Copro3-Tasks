@@ -1,0 +1,10 @@
+C:\Users\PC002\AppData\Local\Temporary Projects\CSharp Programming\bin\Debug\CSharp Programming.exe
+C:\Users\PC002\AppData\Local\Temporary Projects\CSharp Programming\bin\Debug\CSharp Programming.pdb
+C:\Users\PC002\AppData\Local\Temporary Projects\CSharp Programming\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PC002\AppData\Local\Temporary Projects\CSharp Programming\obj\Debug\CSharp_Programming.Form1.resources
+C:\Users\PC002\AppData\Local\Temporary Projects\CSharp Programming\obj\Debug\CSharp_Programming.Properties.Resources.resources
+C:\Users\PC002\AppData\Local\Temporary Projects\CSharp Programming\obj\Debug\CSharp Programming.csproj.GenerateResource.Cache
+C:\Users\PC002\AppData\Local\Temporary Projects\CSharp Programming\obj\Debug\CSharp Programming.exe
+C:\Users\PC002\AppData\Local\Temporary Projects\CSharp Programming\obj\Debug\CSharp Programming.pdb
+D:\Aceron,Martin John Copro3\1st ACTIViTY\CSharp Programming\CSharp Programming\obj\Debug\CSharp Programming.exe
+D:\Aceron,Martin John Copro3\1st ACTIViTY\CSharp Programming\CSharp Programming\obj\Debug\CSharp Programming.pdb

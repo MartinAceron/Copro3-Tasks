@@ -1,0 +1,4 @@
+C:\Users\PC002\AppData\Local\Temporary Projects\DataTypesAndVaribales\obj\Release\ResolveAssemblyReference.cache
+C:\Users\PC002\AppData\Local\Temporary Projects\DataTypesAndVaribales\obj\Release\DataTypesAndVaribales.Form1.resources
+C:\Users\PC002\AppData\Local\Temporary Projects\DataTypesAndVaribales\obj\Release\DataTypesAndVaribales.Properties.Resources.resources
+C:\Users\PC002\AppData\Local\Temporary Projects\DataTypesAndVaribales\obj\Release\DataTypesAndVaribales.csproj.GenerateResource.Cache

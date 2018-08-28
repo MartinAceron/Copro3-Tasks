@@ -1,0 +1,9 @@
+D:\Aceron,Martin John Copro3\EaM\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+D:\Aceron,Martin John Copro3\EaM\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+D:\Aceron,Martin John Copro3\EaM\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\ResolveAssemblyReference.cache
+D:\Aceron,Martin John Copro3\EaM\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.frmPublicAccess.resources
+D:\Aceron,Martin John Copro3\EaM\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.frmPrivateAccess.resources
+D:\Aceron,Martin John Copro3\EaM\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\Aceron,Martin John Copro3\EaM\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Aceron,Martin John Copro3\EaM\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+D:\Aceron,Martin John Copro3\EaM\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb

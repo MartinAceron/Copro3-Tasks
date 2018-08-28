@@ -1,0 +1,10 @@
+C:\Users\PC002\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Users\PC002\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Users\PC002\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\PC002\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+C:\Users\PC002\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
+D:\Aceron,Martin John Copro3\1st ACTIViTY\C# Activity 2\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+D:\Aceron,Martin John Copro3\1st ACTIViTY\C# Activity 2\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+D:\Aceron,Martin John Copro3\1st ACTIViTY\C# Activity 2\ConsoleApplication1\ConsoleApplication1\obj\Release\ResolveAssemblyReference.cache
+D:\Aceron,Martin John Copro3\1st ACTIViTY\C# Activity 2\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+D:\Aceron,Martin John Copro3\1st ACTIViTY\C# Activity 2\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb

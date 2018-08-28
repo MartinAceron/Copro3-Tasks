@@ -1,0 +1,16 @@
+C:\Users\PC002\AppData\Local\Temporary Projects\Aritmethic and logical Operators\bin\Debug\Aritmethic and logical Operators.exe
+C:\Users\PC002\AppData\Local\Temporary Projects\Aritmethic and logical Operators\bin\Debug\Aritmethic and logical Operators.pdb
+C:\Users\PC002\AppData\Local\Temporary Projects\Aritmethic and logical Operators\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PC002\AppData\Local\Temporary Projects\Aritmethic and logical Operators\obj\Debug\Aritmethic_and_logical_Operators.Form1.resources
+C:\Users\PC002\AppData\Local\Temporary Projects\Aritmethic and logical Operators\obj\Debug\Aritmethic_and_logical_Operators.Properties.Resources.resources
+C:\Users\PC002\AppData\Local\Temporary Projects\Aritmethic and logical Operators\obj\Debug\Aritmethic and logical Operators.csproj.GenerateResource.Cache
+C:\Users\PC002\AppData\Local\Temporary Projects\Aritmethic and logical Operators\obj\Debug\Aritmethic and logical Operators.exe
+C:\Users\PC002\AppData\Local\Temporary Projects\Aritmethic and logical Operators\obj\Debug\Aritmethic and logical Operators.pdb
+D:\Aceron,Martin John Copro3\1st ACTIViTY\Aritmethic and logical Operators\Aritmethic and logical Operators\obj\Debug\Aritmethic and logical Operators.exe
+D:\Aceron,Martin John Copro3\1st ACTIViTY\Aritmethic and logical Operators\Aritmethic and logical Operators\obj\Debug\Aritmethic and logical Operators.pdb
+D:\Aceron,Martin John Copro3\1st ACTIViTY\Aritmethic and logical Operators\Aritmethic and logical Operators\bin\Debug\Aritmethic and logical Operators.exe
+D:\Aceron,Martin John Copro3\1st ACTIViTY\Aritmethic and logical Operators\Aritmethic and logical Operators\bin\Debug\Aritmethic and logical Operators.pdb
+D:\Aceron,Martin John Copro3\1st ACTIViTY\Aritmethic and logical Operators\Aritmethic and logical Operators\obj\Debug\ResolveAssemblyReference.cache
+D:\Aceron,Martin John Copro3\1st ACTIViTY\Aritmethic and logical Operators\Aritmethic and logical Operators\obj\Debug\Aritmethic_and_logical_Operators.Form1.resources
+D:\Aceron,Martin John Copro3\1st ACTIViTY\Aritmethic and logical Operators\Aritmethic and logical Operators\obj\Debug\Aritmethic_and_logical_Operators.Properties.Resources.resources
+D:\Aceron,Martin John Copro3\1st ACTIViTY\Aritmethic and logical Operators\Aritmethic and logical Operators\obj\Debug\Aritmethic and logical Operators.csproj.GenerateResource.Cache

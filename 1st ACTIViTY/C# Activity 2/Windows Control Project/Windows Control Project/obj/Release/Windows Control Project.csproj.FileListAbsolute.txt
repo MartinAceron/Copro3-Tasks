@@ -1,0 +1,8 @@
+C:\Users\PC002\AppData\Local\Temporary Projects\Windows Control Project\obj\Release\ResolveAssemblyReference.cache
+C:\Users\PC002\AppData\Local\Temporary Projects\Windows Control Project\obj\Release\Windows_Control_Project.frmMain.resources
+C:\Users\PC002\AppData\Local\Temporary Projects\Windows Control Project\obj\Release\Windows_Control_Project.Properties.Resources.resources
+C:\Users\PC002\AppData\Local\Temporary Projects\Windows Control Project\obj\Release\Windows Control Project.csproj.GenerateResource.Cache
+D:\Aceron,Martin John Copro3\1st ACTIViTY\C# Activity 2\Windows Control Project\Windows Control Project\obj\Release\ResolveAssemblyReference.cache
+D:\Aceron,Martin John Copro3\1st ACTIViTY\C# Activity 2\Windows Control Project\Windows Control Project\obj\Release\Windows_Control_Project.frmMain.resources
+D:\Aceron,Martin John Copro3\1st ACTIViTY\C# Activity 2\Windows Control Project\Windows Control Project\obj\Release\Windows_Control_Project.Properties.Resources.resources
+D:\Aceron,Martin John Copro3\1st ACTIViTY\C# Activity 2\Windows Control Project\Windows Control Project\obj\Release\Windows Control Project.csproj.GenerateResource.Cache
